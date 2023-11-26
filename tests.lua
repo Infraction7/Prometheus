@@ -4,7 +4,7 @@
 -- This file will Perform tests using all lua files within the tests directory
 
 -- Require Prometheus
-local Prometheus = require("src.prometheus")
+local Prometheus = require("./src/prometheus.lua")
 
 -- Enable Debugging
 -- logger.logLevel = logger.LogLevel.Debug;
